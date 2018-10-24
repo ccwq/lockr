@@ -1,6 +1,7 @@
 ![Lockr logo](http://i.imgur.com/m5kPjkB.png)
 
 > A minimal API wrapper for localStorage. Simple as your high-school locker.
+> 增加对sessionStorage的支持
 
 [![Build Status](https://travis-ci.org/tsironis/lockr.svg?branch=master)](https://travis-ci.org/tsironis/lockr)
 [![npm version](https://badge.fury.io/js/lockr.svg)](http://badge.fury.io/js/lockr)
