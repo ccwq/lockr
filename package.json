@@ -1,25 +1,25 @@
 {
-  "name": "lockr",
-  "description": "A minimal API wrapper for localStorage",
-  "version": "0.8.5",
+  "name": "lockrss",
+  "description": "A minimal API wrapper for sessionStorage, fork from lockr",
+  "version": "0.0.1",
   "author": {
-    "name": "Dimitris Tsironis",
-    "email": "tsironis.dimitris@gmail.com"
+    "name": "ccwq",
+    "email": "scwqd@qq.com"
   },
   "engines": {
     "node": ">= 0.8.0"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/tsironis/lockr.git"
+    "url": "git://github.com/ccwq/lockrss.git"
   },
   "license": "MIT",
   "files": [
-    "lockr.js",
-    "lockr.min.js",
+    "lockrss.js",
+    "lockrss.min.js",
     "LICENSE"
   ],
-  "main": "lockr.js",
+  "main": "lockrss.js",
   "scripts": {
     "build": "grunt"
   },
